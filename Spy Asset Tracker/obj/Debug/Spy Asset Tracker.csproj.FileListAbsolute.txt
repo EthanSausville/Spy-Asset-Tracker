@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\bin\Spy Asset Tracker.dll.config
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\bin\Spy Asset Tracker.dll
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\bin\Spy Asset Tracker.pdb
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\obj\Debug\Spy Asset Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\obj\Debug\Spy Asset Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\obj\Debug\Spy Asset Tracker.dll
+C:\Users\Ethan\Documents\My Code\GitHub\Spy Asset Tracker\Spy Asset Tracker\obj\Debug\Spy Asset Tracker.pdb
